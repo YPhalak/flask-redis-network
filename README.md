@@ -44,6 +44,7 @@ To stop and clean up:
 
 docker-compose down
 
+...
 📚 Learning Points
 Docker networking with docker-compose
 
